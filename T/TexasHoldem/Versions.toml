@@ -6,3 +6,4 @@ git-tree-sha1 = "010220cfdfbba2df6a77ec86c89e65f1f145b684"
 
 ["0.2.1"]
 git-tree-sha1 = "22315565ea0737fbfefc334f6371dc651cc54b63"
+yank = true
